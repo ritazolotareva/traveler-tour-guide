@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="28px" height="28px" viewBox="0 0 28 28" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52.1 (67048) - http://www.bohemiancoding.com/sketch -->
+    <title>icon-forest</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="icon-forest">
+            <circle id="Oval" fill="#FFFFFF" cx="14" cy="14" r="14"></circle>
+            <polygon id="Path" fill="#757575" points="12.37 18.54 12.37 18.76 9.62 18.76 9.62 20.43 7.55 20.43 7.55 18.76 3.61 18.76 5.92 15.83 4.52 15.83 6.74 13 5.49 13 8.59 9.06 9.59 10.33 9.96 10.8 10.43 11.4 7.92 14.59 9.8 14.59 6.7 18.54"></polygon>
+            <polygon id="Path" fill="#757575" points="24.61 18.76 20.67 18.76 20.67 20.43 18.6 20.43 18.6 18.76 15.86 18.76 15.86 18.54 21.53 18.54 18.42 14.59 20.31 14.59 17.8 11.4 18.27 10.8 18.64 10.33 19.64 9.06 22.74 13 21.48 13 23.71 15.83 22.31 15.83"></polygon>
+            <polygon id="Path" fill="#757575" points="20.8 18.19 15.51 18.19 15.51 20.43 12.72 20.43 12.72 18.19 7.42 18.19 10.53 14.24 8.64 14.24 10.65 11.68 11.63 10.45 9.94 10.45 14.11 5.14 18.28 10.45 16.6 10.45 17.57 11.68 19.59 14.24 17.7 14.24"></polygon>
+        </g>
+    </g>
+</svg>

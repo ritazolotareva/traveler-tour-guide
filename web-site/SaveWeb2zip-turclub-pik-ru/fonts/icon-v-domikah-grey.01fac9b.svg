@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="28px" height="28px" viewBox="0 0 28 28" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52.1 (67048) - http://www.bohemiancoding.com/sketch -->
+    <title>Group</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Group">
+            <circle id="Oval" fill="#FFFFFF" cx="14" cy="14" r="14"></circle>
+            <g id="Group-2" transform="translate(6.000000, 7.000000)" stroke="#757575">
+                <polyline id="Path-2" stroke-width="1.04000008" stroke-linecap="round" stroke-linejoin="round" points="0.259348298 6.37545895 8.50225746 0.0284958095 16.7416073 6.37545895"></polyline>
+                <polygon id="Path-3" stroke-width="1.04000008" stroke-linejoin="round" points="2.40109053 4.83336306 2.40109053 13.7675422 6.90801047 13.7675422 6.90801047 8.40323232 10.1026969 8.40323232 10.1026969 13.7675422 14.6120146 13.7675422 14.6120146 4.83336306"></polygon>
+                <path d="M4.11095128,0.584238881 L4.11095128,3.56363636" id="Path-4" stroke-width="2.08000016" stroke-linecap="round" stroke-linejoin="round"></path>
+                <polygon id="Path-5" stroke-width="0.5" fill="#FFFFFF" points="2.92114855 5.00292264 8.50165622 0.699115506 14.0874741 5.00292264 14.0874741 13.2766502 10.6224664 13.2766502 10.6224664 7.91890853 6.40112128 7.91890853 6.40112128 13.2766502 2.92114855 13.2766502"></polygon>
+            </g>
+        </g>
+    </g>
+</svg>
