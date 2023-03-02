@@ -984,7 +984,7 @@ textarea {
     height: auto !important;
 }
 
- {
+.classRules{
     /* no-gutters Class Rules */
 }
 
@@ -3630,7 +3630,55 @@ mark, .mark {
 --------------------------------------------------------------------------------*/
 
 .footer {
+    padding: 42px 0;
     background-color: #1a1a23;
+  }
+  
+  .footer-container {
+    align-items: center;
+    justify-content: space-between;
+  }
+  
+  .footer-left, .footer-right {
+    align-items: center;
+  } 
+  
+  .footer-logo {
+    margin-right: 25px;
+  }
+  
+  .footer-list {
+    list-style-type: none;
+  }
+
+  .footer-copy {
+    font-size: 12px;
+    line-height: 16px;
+    color: #787878;
+  }
+  
+  .footer-link {
+    font-weight: 600;
+    font-size: 15px;
+    line-height: 20px;
+    color: #787878;
+  }
+  
+  .footer-item:not(:last-child) {
+    margin-right: 28px;
+  }
+  
+  .social-link {
+    display: block;
+    background-position: center;
+    background-repeat: no-repeat;
+    width: 24px;
+    height: 24px;
+  }
+  
+
+.footer {
+    
     overflow: hidden;
     color: #c2c2c2;
 }
@@ -3709,7 +3757,6 @@ mark, .mark {
         position: static;
     }
 }
-@charset "UTF-8";
 
 
 
@@ -3722,7 +3769,7 @@ mark, .mark {
     width: 100%;
     background-color: white;
     box-shadow: 0 0 8px 0 rgba(0, 0, 0, .1);
-    transition: background ease .3s;
+    transition: ease .3s;
 }
 
 .header .container {
@@ -3776,6 +3823,7 @@ mark, .mark {
 }
 
 .header.shrink .header__logo {
+    /* margin-bottom: 20px; */
     height: 60px;
     line-height: 60px;
 }
@@ -4431,6 +4479,7 @@ mark, .mark {
 }
 .consult_logo {
     display: block;
+    padding-left: 25%;
 }
 
 .consult-background {
