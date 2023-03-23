@@ -495,13 +495,13 @@
 .icon-phone-square:before {
   content: "\f098";
 }
-.icon-twitter:before {
+.icon-vk:before {
   content: "\f099";
 }
-.icon-facebook:before {
+.icon-youtube:before {
   content: "\f09a";
 }
-.icon-facebook-f:before {
+.icon-youtube-f:before {
   content: "\f09a";
 }
 .icon-github:before {
@@ -696,7 +696,7 @@
 .icon-envelope:before {
   content: "\f0e0";
 }
-.icon-linkedin:before {
+.icon-telegram:before {
   content: "\f0e1";
 }
 .icon-rotate-left:before {
@@ -1782,7 +1782,7 @@
 .icon-genderless:before {
   content: "\f22d";
 }
-.icon-facebook-official:before {
+.icon-youtube-official:before {
   content: "\f230";
 }
 .icon-pinterest-p:before {
