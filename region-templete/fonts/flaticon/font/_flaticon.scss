@@ -23,21 +23,20 @@
 }
 
     .fi:before{
-        display: inline-block;
-  font-family: "Flaticon";
-  font-style: normal;
-  font-weight: normal;
-  font-variant: normal;
-  line-height: 1;
-  text-decoration: inherit;
-  text-rendering: optimizeLegibility;
-  text-transform: none;
-  -moz-osx-font-smoothing: grayscale;
-  -webkit-font-smoothing: antialiased;
-  font-smoothing: antialiased;
+      display: inline-block;
+      font-family: "Flaticon";
+      font-style: normal;
+      font-weight: normal;
+      font-variant: normal;
+      line-height: 1;
+      text-decoration: inherit;
+      text-rendering: optimizeLegibility;
+      text-transform: none;
+      -moz-osx-font-smoothing: grayscale;
+      -webkit-font-smoothing: antialiased;
     }
 
-    .flaticon-plane:before { content: "\f100"; }
+    .flaticon-glamping:before { content: url(../../../../assets/img/glamping-icon.png); }
 .flaticon-container:before { content: "\f101"; }
 .flaticon-truck:before { content: "\f102"; }
 .flaticon-warehouse:before { content: "\f103"; }
@@ -47,8 +46,8 @@
 .flaticon-worldwide:before { content: "\f107"; }
 .flaticon-map:before { content: "\f108"; }
 .flaticon-computer:before { content: "\f109"; }
-    
-    $font-Flaticon-plane: "\f100";
+
+    // $font-Flaticon-plane: "\f100";
     $font-Flaticon-container: "\f101";
     $font-Flaticon-truck: "\f102";
     $font-Flaticon-warehouse: "\f103";
