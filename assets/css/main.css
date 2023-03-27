@@ -57,6 +57,7 @@ a:focus, input:focus, button:focus, textarea:focus {
 }
 
 p {
+  text-align: justify;
     margin-top: 0;
     margin-bottom: 10px;
 }
@@ -3633,20 +3634,20 @@ mark, .mark {
     padding: 42px 0;
     background-color: #1a1a23;
   }
-  
+
   .footer-container {
     align-items: center;
     justify-content: space-between;
   }
-  
+
   .footer-left, .footer-right {
     align-items: center;
-  } 
-  
+  }
+
   .footer-logo {
     margin-right: 25px;
   }
-  
+
   .footer-list {
     list-style-type: none;
   }
@@ -3656,18 +3657,18 @@ mark, .mark {
     line-height: 16px;
     color: #787878;
   }
-  
+
   .footer-link {
     font-weight: 600;
     font-size: 15px;
     line-height: 20px;
     color: #787878;
   }
-  
+
   .footer-item:not(:last-child) {
     margin-right: 28px;
   }
-  
+
   .social-link {
     display: block;
     background-position: center;
@@ -3675,10 +3676,10 @@ mark, .mark {
     width: 24px;
     height: 24px;
   }
-  
+
 
 .footer {
-    
+
     overflow: hidden;
     color: #c2c2c2;
 }
